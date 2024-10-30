@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Software Developer",
+    "organisation": "Moore Barlow LLP",
+    "startDate": "Jan, 2020",
+    "endDate": "Present",
+    "experiences": ["Spearheaded data migration project", "Implemented a cutting-edge time management SaaS solution"],
+    "imageSrc": "history/moorebarlow.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Barlow Robbins LLP",
+    "startDate": "Jan, 2017",
+    "endDate": "Jan, 2020",
+    "experiences": ["Lead developer for 3-year £1.5M project", "Fully customised MatterSphere CMS tailored to the business needs", "Guided project lifecycle from design to implementation"],
+    "imageSrc": "history/barlowrobbins.png"
+  },
+  {
+    "role": "Software Placement Year",
+    "organisation": "PSA Peugeot Citroen",
+    "startDate": "Sept, 2012",
+    "endDate": "Aug, 2013",
+    "experiences": [
+      "Led a year long project to remimagine the Peugeot Citroen car dealership network",
+      "Implemented data-driven strategies to optimize service desk performance"
+    ],
+    "imageSrc": "history/psa.png"
+  }
+]

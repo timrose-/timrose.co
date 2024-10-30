@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Time Recording",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and implemented cutting-edge time management SaaS solution, driving productivity improvements and streamlining workflow processes across the organization",
+    "skills": ["C#", "EntityFramework", "React", "WebAPI"]
+  },
+  {
+    "title": "Data Migration",
+    "imageSrc": "projects/project.png",
+    "description": "Spearheaded a data migration project during a 500 staff merger of two major UK law firms; Seamlessly integrating the two legacy case and practice management systems into one; Enhancing operational efficiency and data accessibility",
+    "skills": ["SQL Server", "T-SQL", "EntityFramework", "ASP.NET"]
+  },
+  {
+    "title": "Freelance Web Design",
+    "imageSrc": "projects/project.png",
+    "description": "I have designed a number of small enterprise websites to help new companies find their feet in the digital world",
+    "skills": ["React", "HTML", "Node", "CSS"],
+    "demo": "https://www.timrose.co",
+    "source": "https://github.com/timrose-/timrose.co"
+  }
+]
